@@ -4,13 +4,12 @@
 
 - 🔭 Studying software engineering at 42Heilbronn.
 
-- 🌱 Currently learning C and C++.
+- 👨‍💻 Working on Transendence.
 
-- 📫 How to reach me: niklas@burchhardt.de.
-
-- 🚀 trying to improve and deepen my programming skills with [Leet Code](https://leetcode.com/nburchha/)
+- 🌱 Currently learning Golang, Python Django and a bit of Angular.
 
 ## Languages:
+![Go](https://img.shields.io/badge/-Golang-blue?style=flat&logo=go)
 ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
 ![Shell](https://img.shields.io/badge/-Shell-blue?style=flat&logo=gnu-bash)
