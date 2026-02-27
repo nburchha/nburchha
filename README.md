@@ -1,14 +1,13 @@
-## Hi there 👋
+## Hi there
 
-- 👋 Hi there, I'm Niklas Burchhardt.
+- 👋 Hi there, I'm Niklas Burchhardt
 
-- 🔭 Studying software engineering at 42Heilbronn.
+- 🔭 42Heilbronn Alumni, studying Wirtschaftsinformatik at HHN
 
-- 👨‍💻 Working on Transendence.
+- 👨‍💻 Working on Cloud stuff @stackit
 
-- 🌱 Currently learning Golang, Python Django and a bit of Angular.
+- 🌱 Currently learning Golang, K8S, Ansible, Terraform
 
-## Languages:
 ![Go](https://img.shields.io/badge/-Golang-blue?style=flat&logo=go)
 ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
