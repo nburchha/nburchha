@@ -4,7 +4,7 @@
 
 - 🔭 42Heilbronn Alumni, studying Wirtschaftsinformatik at HHN
 
-- 👨‍💻 Working on Cloud stuff @stackit
+- 👨‍💻 Working on Cloud stuff @STACKIT
 
 - 🌱 Currently learning Golang, K8S, Ansible, Terraform
 
